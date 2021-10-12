@@ -1,0 +1,23 @@
+{
+  "name": "unsplash-images",
+  "version": "1.0.0",
+  "description": "**To do this challenge, you need a good understanding of HTML, CSS, and JavaScript.**",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,scss}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniloMarkicevic1/unsplash-images.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniloMarkicevic1/unsplash-images/issues"
+  },
+  "homepage": "https://github.com/DaniloMarkicevic1/unsplash-images#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
