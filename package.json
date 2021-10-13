@@ -19,5 +19,8 @@
   "homepage": "https://github.com/DaniloMarkicevic1/unsplash-images#readme",
   "devDependencies": {
     "prettier": "^2.4.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
   }
 }
