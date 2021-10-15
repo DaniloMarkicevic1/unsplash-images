@@ -1,5 +1,5 @@
 let i = 0;
-const API_KEY = 'bgS3-7yu5UHQm5jlt9d9hfF6YExx4ZYO9e6G2ciG4aE';
+const API_KEY = 'oqIp3Gl9lXVGzCgOK8SGXM9NSs-5UAqv8W_JTs8jvOA';
 const body = document.querySelector('body');
 const overlay = document.querySelector('.overlay');
 const overlay__content = document.querySelector('.overlay__content');
