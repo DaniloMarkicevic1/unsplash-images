@@ -111,6 +111,7 @@
   padding: 20px;
 }
 * body .images .wrapper .mainImg {
+  width: 100%;
   padding: 0 0 20px 0;
 }
 * body .images .wrapper .username .avatar {
