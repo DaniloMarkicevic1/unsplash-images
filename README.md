@@ -1,4 +1,4 @@
-$ sass --watch styles/styles.scss styles/css/css.css
+sass --watch styles/styles.scss styles/css/css.css
 **To do this challenge, you need a good understanding of HTML, CSS, and JavaScript.**
 
 ## The challenge
